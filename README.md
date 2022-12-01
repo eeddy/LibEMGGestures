@@ -11,7 +11,7 @@ Additionally, check out the documentation for our [EMG Library](https://eeddy.gi
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | No Motion | Do Nothing  | <img src="Images/No_Motion.png" width="150px">  | <img src="GIFs/No_Motion.gif" width="150px"> |
 | 2  | Hand Close | Grab, Select  | <img src="Images/Hand_Close.png" width="150px">   | <img src="GIFs/Hand_Close.gif" width="150px">   |
-| 3  | Wrist Flexion | Swipe Left  | <img src="Images/No_Motion.png" width="150px">   | <img src="GIFs/Wrist_Flexion.gif" width="150px">  |
+| 3  | Wrist Flexion | Swipe Left  | <img src="Images/Wrist_Flexion.png" width="150px">   | <img src="GIFs/Wrist_Flexion.gif" width="150px">  |
 | 4  | Wrist Extension | Swipe Right  | <img src="Images/Wrist_Extension.png" width="150px">  | <img src="GIFs/Wrist_Extension.gif" width="150px">  |
 | 5  | Wrist Pronation |   | <img src="Images/Pronation.png" width="150px"> | <img src="GIFs/Pronation.gif" width="150px"> |
 | 6  | Wrist Supination |  | <img src="Images/Supination.png" width="150px">| <img src="GIFs/Supination.gif" width="150px">  |
