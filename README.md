@@ -8,7 +8,7 @@ Additionally, check out the documentation for our [EMG Library](https://eeddy.gi
 # Gestures
 
 | ID  | Gesture Name | Photo | GIF |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | 1  | No Motion |  <img src="Images/No_Motion.png" width="150px">  | <img src="GIFs/No_Motion.gif" width="150px"> |
 | 2  | Hand Close | <img src="Images/Hand_Close.png" width="150px">   | <img src="GIFs/Hand_Close.gif" width="150px">   |
 | 3  | Hand Open | <img src="Images/Hand_Open.png" width="150px">   | <img src="GIFs/Hand_Open.gif" width="150px">   |
