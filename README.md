@@ -45,4 +45,4 @@ Additionally, check out the documentation for our [EMG Library](https://eeddy.gi
 | 34  | A Little |  <img src="Images/A_Little.png" width="150px">  | <img src="GIFs/A_Little.gif" width="150px">  |
 | 35  | Quotes |  <img src="Images/Quotes.png" width="150px">  | <img src="GIFs/Quotes.gif" width="150px">  |
 | 36  | Ulnar Deviation |  <img src="Images/Ulnar_Deviation.png" width="150px">  |   |
-| 37  | Quotes |  <img src="Images/Radial_Deviation.png" width="150px">  |  |
+| 37  | Radial Deviation |  <img src="Images/Radial_Deviation.png" width="150px">  |  |
